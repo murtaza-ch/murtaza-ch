@@ -7,7 +7,7 @@ Full Stack Engineer | Mern Stack
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [My Portfolio](http://murtazaasghar.com)
 * ✉️  You can contact me at [murtazach275@gmail.com](mailto:murtazach275@gmail.com)
-* 🚀  I'm currently working on [Virtial Concerts](http://moshpit.live)
+* 🚀  I'm currently working on [Virtual Concerts](http://moshpit.live)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Open source propjects
 * ⚡  Ninja
